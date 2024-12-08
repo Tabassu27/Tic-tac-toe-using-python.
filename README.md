@@ -10,6 +10,9 @@ Vibrant color themes based on user preferences.
 Fun victory messages for enhanced user experience.
 # Features
 1 Two-player gameplay.
+
 2 Real-time win/tie detection with color-coded highlights.
+
 3 Intuitive and aesthetic user interface.
+
 4 Randomized player start.
